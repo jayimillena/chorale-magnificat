@@ -1,4 +1,3 @@
-```markdown
 # Ang Puso Ko'y Nagpupuri
 
 A Filipino Marian liturgical hymn based on the **Magnificat** (Luke 1:46–55).
@@ -46,5 +45,3 @@ Use these rehearsal tracks to practice your specific vocal line:
 ## 📄 Usage Instructions
 1. First, listen to the **Full Choral Recording** to understand the dynamics, tempo, and overall blend.
 2. Select your corresponding voice section above (**S1, S2, A1, A2, T1, T2, B1, or B2**) to practice your individual line along with the track.
- 
-```"# chorale-magnificat" 
