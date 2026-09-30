@@ -1,5 +1,3 @@
-Here is a clean, well-structured `README.md` file designed for a choir repository or rehearsal folder containing the links and details for **"Ang Puso Ko'y Nagpupuri"**:
-
 ```markdown
 # Ang Puso Ko'y Nagpupuri
 
